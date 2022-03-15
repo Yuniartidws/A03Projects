@@ -1,7 +1,8 @@
 <img src="images/1.png">
 
 **Description:**
-A simple responsive landing page school website with animated 
+A simple responsive landing page school website with animated ###
+
 [LIVE](https://Yuniartidws.github.io/A03Projects/)
 **Technologies used:**
  - HTML
