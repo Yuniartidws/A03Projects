@@ -3,7 +3,7 @@
 **Description:**
 A simple responsive landing page school website with animated ###
 
-[LIVE](https://Yuniartidws.github.io/A03Projects/)
+[LIVE](https://Yuniartidws/A03Projects.github.io/)
 **Technologies used:**
  - HTML
  - CSS
